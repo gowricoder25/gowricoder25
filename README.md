@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gowri G
+- 	![Gowri](image.jpg)
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning DSML
 - 💞️ I’m looking to collaborate on ...
