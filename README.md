@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gowri G
-- 	![Gowri](image.jpg)
+- 	![Gowri](https://github.com/gowricoder25/gowricoder25/blob/96a3709c35c56416ec9d1681816860b35d6ca155/gowri.jpeg?raw=true)
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning DSML
 - 💞️ I’m looking to collaborate on ...
